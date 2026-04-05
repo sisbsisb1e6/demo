@@ -1,9 +1,4 @@
 def sum():
-    return print("This is function")
+    return print("This is function")t
 
 sum()
-
-def disp():
-    print("This is disp function")
-
-disp()
