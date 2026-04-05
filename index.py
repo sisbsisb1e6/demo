@@ -1,4 +1,4 @@
 def sum():
-    return print("This is function")t
+    print("This is function")
 
 sum()
